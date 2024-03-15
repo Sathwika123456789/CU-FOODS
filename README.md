@@ -58,19 +58,26 @@ OBJECTIVE:
 customizable food ordering website cum a social platform to view or add recipes
 for which our caterers can process orders as per the recipes added or previously
 available in our platform.
+
 • For this platform we have created a Customized Recipe portal for every user to
 order or add recipe. Every user will have access to the Menus of all the recipes
 apart from the catering services provided by our caterers.
+
 • Our goal is to make food ordering process much smoother by giving much more
 options to the user.
+
 • There are many food ordering platforms and many good companies which provide
 services like this but what makes our platform unique is being able to provide
 customized foods.
+
 • Many platforms like Swiggy, Zomato, etc act as an interface to deliver food to
 millions of people. But the food they provide is from restaurants which only
 provide the food items which are present in their menu.
+
 • So unlike them, we are selecting the businesses who can also provide customized
 recipes provided by the customers.
+
 • Customers can add the recipes which they want to eat in the way they want to it.
+
 • Our ultimate goal is to make food available to the customers in the way they want
 to have.
